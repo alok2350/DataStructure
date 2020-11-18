@@ -54,21 +54,3 @@ int main()
 
 
 
-A B C D E F G 
-1 1 1 1 1 1 0
-DEPTH FIRST SEARCH :::: STACK
-
-VISIT:A(T) B(T) E(T) C(T) G(T) I(T) F(T) H(T) I(T)
-START: A
-DFS: A B E C G I F H I
-    A C G I F H E
-
-
-C E D A B
-A B C E F D
-
-
-
-START:A
-BFS:A B DC E F G
-DFS:

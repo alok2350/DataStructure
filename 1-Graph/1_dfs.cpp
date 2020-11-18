@@ -14,10 +14,6 @@ void print_dfs(std::vector<std::vector<int>> matrix,const int& start_vertex,std:
     }
 }
 
-
-
-
-
 std::vector<int> vec;
 
 int main()
@@ -48,15 +44,6 @@ int main()
 }
 
 
-BFS:queue :::  A (BCD) (E) (G) (F) (IH)
-            
-            
-            
-        
-
-            QUEUE:      G F H I F
-            VISI[9]:A(T) C(T) B(T) D(T) G(T) E(T)
-            BFS:A C B E
 
 
 
@@ -66,9 +53,3 @@ BFS:queue :::  A (BCD) (E) (G) (F) (IH)
 
 
 
-
-
-
-
-
-DFS:
