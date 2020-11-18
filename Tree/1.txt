@@ -1,0 +1,22 @@
+pre order: root left_subtree rigt_subtree
+in order: left_subtree root rigt_subtree
+post order: left_subtree rigt_subtree root
+
+pre+in 
+post+in
+
+A -1,2,3
+B 1,2,3
+C 1,2,3
+D 1,2,3
+E 1,2,3
+
+
+
+pre: A B C D E
+in :  B A D C E 
+post: B D E C A
+
+
+
+
